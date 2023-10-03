@@ -1,4 +1,4 @@
-# Multigrate: multiomic data integration for single-cell genomics
+# Multigrate: multiomic data integration for single-cell genomics bien
 
 [![Tests][badge-tests]][link-tests]
 [![Documentation][badge-docs]][link-docs]
